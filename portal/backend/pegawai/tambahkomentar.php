@@ -171,7 +171,7 @@ $tambah = "K-".$plus;
                 <label for="inputClientCompany">Id Berita</label>
                 <input class="form-control" type="text" name="id_berita" value="<?php echo $_GET['id_berita']?>" readonly required="required">
               </div>
-            </div>
+            </form>
             <!-- /.card-body -->
           </div>
           <!-- /.card -->
